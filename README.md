@@ -1,5 +1,5 @@
 
-# Computer vision Experimentation Framework
+# Computer Vision Experimentation Framework
 
 ## Overview
 
