@@ -1,5 +1,5 @@
 {
-    "data_path": "../data/BeanBot_dataset_ampliado",
+    "data_path": "../data/dataset",
     "seed": 42,
     "batch_size": 16,
     "patience": 10,
