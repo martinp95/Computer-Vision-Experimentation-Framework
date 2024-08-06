@@ -1,0 +1,19 @@
+{
+	"name": "Computer-Vision-Experimentation-Framework",
+	"build": { 
+		"context": "..",
+		"dockerfile": "Dockerfile",
+		"options": ["--network=host"]
+	},	
+	"runArgs": [
+		"--runtime=nvidia", 
+		"--shm-size=24g",
+		"--network=host",
+		"-it", 
+		"-v", "/home/mpelaez/workspaces/Computer-Vision-Experimentation-Framework/data/:/data/"	
+	],	
+    "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+    ]
+}
