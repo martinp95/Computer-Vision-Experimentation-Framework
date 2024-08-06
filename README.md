@@ -1,9 +1,9 @@
 
-# Machine Learning Experimentation Framework
+# Computer vision Experimentation Framework
 
 ## Overview
 
-This project provides a framework for running machine learning experiments involving image classification. It includes components for data loading, preprocessing, model training, and result reporting.
+This project provides a framework for running computer vision experiments involving image classification. It includes components for data loading, preprocessing, model training, and result reporting.
 
 ## Project Structure
 
